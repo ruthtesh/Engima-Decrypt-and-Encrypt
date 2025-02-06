@@ -4,7 +4,7 @@
 This project uses a GUI to input data from a user and output the encrypted or decrypted sentence. 
 
 ## Examples
-### Enccrypt:
+### Encrypt:
     Inner: 1  Middle:2  Outter: 3  Initial Positions: ###
     Input: AAA
     Expected Output: NDU
