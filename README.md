@@ -1,7 +1,7 @@
 # Enigma Message Encryptor/Decryptor
 
 ## Overview
-This project uses a GUI to input data from a user and output the encrypted or decrypted sentence. 
+This project uses a GUI to input data from a user and output the encrypted or decrypted message. 
 
 ## Examples
 ### Encrypt:
